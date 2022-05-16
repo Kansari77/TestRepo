@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F263-ADE7
+
+ Directory of C:\JenkinsTraining\TestProject
+
+05/16/2022  09:21 AM    <DIR>          .
+05/16/2022  09:21 AM    <DIR>          ..
+05/16/2022  09:21 AM               909 Hello.class
+05/16/2022  07:03 AM               169 Hello.java
+05/16/2022  09:21 AM                 0 test.txt
+               3 File(s)          1,078 bytes
+               2 Dir(s)  22,469,779,456 bytes free
